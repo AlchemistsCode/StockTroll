@@ -28,5 +28,6 @@
   </dependencies>
   <build>
     <finalName>stocktroll</finalName>
+    <sourceDirectory>src/main/java</sourceDirectory>
   </build>
 </project>
